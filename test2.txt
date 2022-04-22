@@ -1,0 +1,36 @@
+
+    Directory: E:\Synoriq\Test
+
+[32;1mMode                 LastWriteTime         Length N[0m
+[32;1m                                                  a[0m
+[32;1m                                                  m[0m
+[32;1m                                                  e[0m
+[32;1m----                 -------------         ------ -[0m
+-a---           4/19/2022 11:17 AM            248 i
+                                                  n
+                                                  d
+                                                  e
+                                                  x
+                                                  .
+                                                  h
+                                                  t
+                                                  m
+                                                  l
+-a---           4/18/2022  1:09 PM             13 t
+                                                  e
+                                                  s
+                                                  t
+                                                  .
+                                                  t
+                                                  x
+                                                  t
+-a---           4/22/2022 12:06 PM              0 t
+                                                  e
+                                                  s
+                                                  t
+                                                  2
+                                                  .
+                                                  t
+                                                  x
+                                                  t
+
